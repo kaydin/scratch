@@ -1,0 +1,5 @@
+--------------------------------------------------------------
+This document is being used to test hash preservation when
+switching between downloaded and local (specifically to see
+if CRLF causes issues).
+--------------------------------------------------------------
